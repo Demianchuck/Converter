@@ -1,0 +1,422 @@
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\user.STEP\Desktop\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\kkkkkkkk\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\user\Desktop\111\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\user\Desktop\11111\converter3\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\converter3 - Copy до  powerpoint\converter1\converter\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\converter4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\user\Desktop\111\converter 4\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\converter 5\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\user\Desktop\111\+converter 5+\+converter 5+\converter 4\converter 4\converter1\converter\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+D:\Desktop\1ДЗ\Курсач\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe.config
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PDFconverter.exe
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PDFconverter.pdb
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\ControlzEx.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\GemBox.Presentation.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\ControlzEx.pdb
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\MahApps.Metro.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp.Charting-wpf.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\SautinSoft.Document.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\SautinSoft.ExcelToPdf.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\PdfSharp-wpf.xml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp.Charting-wpf.resources.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\bin\Debug\de\PdfSharp-wpf.resources.dll
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csprojAssemblyReference.cache
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\MainWindow.g.cs
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\App.g.cs
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.cache
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter_MarkupCompile.lref
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\MainWindow.baml
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.g.resources
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.Properties.Resources.resources
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.GenerateResource.cache
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.csproj.CopyComplete
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.exe
+C:\Users\Mariia\Desktop\Convertor\PDFconverter\PDFconverter\obj\Debug\PDFconverter.pdb
